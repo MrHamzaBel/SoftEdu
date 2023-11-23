@@ -1,0 +1,59 @@
+# Ignore studio-generated files that may vary from machine to machine
+*.dfr
+*.dsk
+*.dsw
+*.dws
+*.dwt
+*.ini
+*.log
+*.tmp
+*.xml
+*.zip
+
+# Ignore compiled files
+*.bin
+*.dll
+*.exe
+*.int
+*.obj
+*.res
+*.rsc
+*.so
+*.sym
+
+# Ignore database files
+*.dat
+*.idx
+*.log
+*.mdf
+*.ndf
+*.ldf
+
+# Ignore backup files
+*.bak
+*.old
+*.orig
+*.~df
+
+# Ignore cache files
+*.cache
+*.cch
+*.pch
+
+# Ignore web files
+*.html
+*.js
+*.css
+*.map
+*.woff
+*.woff2
+*.ttf
+*.eot
+*.svg
+*.png
+*.jpg
+*.gif
+*.ico
+
+# Ignore FetchContent directory
+_FetchContent_/
